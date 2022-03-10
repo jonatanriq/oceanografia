@@ -5,3 +5,4 @@ Esse repositório contém scripts de trabalhos meus no campo da Oceanografia. A 
 
 Você pode encontrar alguns scripts que utilizam também Google Earth Engine, tal como o GeeMap. Nesse script eu visuzalizo a praia de Ipanema/Leblon utiliando a ferramenta.
 
+Nota: Sugiro sempre abrir os notebooks no colab!
